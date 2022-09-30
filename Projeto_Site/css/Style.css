@@ -1,0 +1,8 @@
+#container-imagem
+{
+    position: relative;
+    height: auto;
+    width: auto;
+    background: url('https://img.freepik.com/vetores-gratis/fundo-gradiente-azul-claro-de-inverno_53876-120755.jpg?w=2000');
+    background-size: cover;
+}
